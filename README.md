@@ -1,9 +1,14 @@
 # INTERACTIVE-QUIZ-APPLICATION
 COMPANY: CODTECH IT SOLUTIONS
-NAME: Vaishnavi Babarao Shinde
+
+NAME: VAISHNAVI BABARAO SHINDE
+
 INTERN ID: CT04DH18
+
 DOMAIN: FRONTEND WEB DEVELOPMENT
+
 DURATION: 4 WEEEKS
+
 MENTOR: NEELA SANTOSH KUMAR
 
 **Description**
@@ -22,4 +27,5 @@ Benefits
 2. Enhance Critical Thinking: The app's quizzes challenge users to think critically and make informed decisions.
 3. Fun and Engaging: The app's interactive format makes learning fun and engaging.
 Output
-
+![image alt](https://github.com/CTT-Vaishnavi/INTERACTIVE-QUIZ-APPLICATION/blob/main/output1.png?raw=true)
+![image alt](https://github.com/CTT-Vaishnavi/INTERACTIVE-QUIZ-APPLICATION/blob/main/output.png?raw=true)
